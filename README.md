@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/TuzinF5">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=TuzinF5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuzinF5&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=TuzinF5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuzinF5&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
