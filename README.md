@@ -1,11 +1,9 @@
 <div>
-  <p>
-    <h1 align="center" style="font-size:40px">Oi 👋, eu sou Arthur Teixeira!</h1>
-    <h3 align="center" style="font-size:30px">Desenvolvedor Front-End!</h3>
-  </p>
+    <h1 align="center">Oi 👋, eu sou Arthur Teixeira!</h1>
+    <h3 align="center">Desenvolvedor Front-End!</h3>
 </div>
 
-<div style="font-size:18px">
+<div>
 
 - 🌱 Atualmente estou estudando na **[Trybe](https://www.betrybe.com/)**.
 
