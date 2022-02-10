@@ -7,7 +7,9 @@
 
 - 🌱 Atualmente estou estudando na **[Trybe](https://www.betrybe.com/)**.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu **[Portfólio Web](https://arthur-teixeira-portfolio.vercel.app/)**.
+- 👨‍💻 Tenho um site dedicado a minha apresentação, nele você encontrará informações sobre mim, minhas habilidades, projetos feitos, contato, entre outras coisas.
+
+    Acesse **[Meu Portfólio Web](https://arthur-teixeira-portfolio.vercel.app/)**.
 
 </div>
 
