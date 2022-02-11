@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">Oi 👋, eu sou Arthur Teixeira!</h1>
-    <h3 align="center">Desenvolvedor Front-End!</h3>
+    <h2 align="center">Desenvolvedor Front-End!</h2>
 </div>
 
 <div>
@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h4 align="left">Tenho habilidades em:</h4>
+  <h3 align="left">Tenho habilidades em:</h3>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -62,7 +62,7 @@
 ##
 
 <div>
-  <h4 align="left">Conecte-se comigo:</h4>
+  <h3 align="left">Conecte-se comigo:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/arthur-teixeira-440376218/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
