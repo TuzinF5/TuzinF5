@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">Oi 👋, eu sou Arthur Teixeira!</h1>
-    <h2 align="center">Desenvolvedor Front-End!</h2>
+    <h2 align="center">Desenvolvedor Back-End!</h2>
 </div>
 
 <div>
