@@ -1,15 +1,27 @@
 <div>
     <h1 align="center">Oi 👋, eu sou Arthur Teixeira!</h1>
-    <h2 align="center">Desenvolvedor Back-End!</h2>
+    <h2 align="center">Desenvolvedor Full-Stack!</h2>
 </div>
 
 <div>
 
-- 🌱 Atualmente estou estudando na **[Trybe](https://www.betrybe.com/)**.
+- Olá, me chamo Arthur, tenho 24 anos, sou natural de Campinas - SP, mas atualmente moro em São Gonçalo do Rio Preto - MG. Gosto de jogos e estudar, me dedico ao máximo a tudo o que eu faço, me considero muito responsável para tomadas de decisões, fruto de uma boa educação familiar.
 
-- 👨‍💻 Tenho um site dedicado a minha apresentação, nele você encontrará informações sobre mim, minhas habilidades, projetos feitos, contato, entre outras coisas.
+Tenho paixão por tecnologia, por esse motivo escolhi a Trybe para me aprofundar e me formar futuramente como desenvolvedor web, tanto Front-End quanto Back-End.
 
-    Acesse **[Meu Portfólio Web](https://arthur-teixeira-portfolio.vercel.app/)**.
+Durante minha formação venho me dedicando muito aos estudos e a entrega de projetos.
+Diariamente coloco em prática habilidades de soft skills como metodologias ágeis e habilidades comportamentais.
+Estudo também hard skills, como por exemplo: Git, GitHub, JavaScript, HTML, CSS, Testes Unitários, React, Docker, MySQL, Node.js, TypeScript, entre outros.
+
+Nas stacks de atuação como desenvolvedor, tenho habilidades em :
+
+ - Front-End: JavaScript, HTML, CSS, React, Redux com React, Context Api, React Hooks, React Router, Testes com RTL.
+ - Back-End: Docker, MySQL, Sequelize ORM, Node.js, Express, TypeScript, Testes Unitários.
+
+Estou aberto à oportunidades de trabalho na área de Desenvolvimento de Software.
+Fique a vontade para me enviar uma mensagem. 
+
+Email: arthurteixeira444@gmail.com
 
 </div>
 
