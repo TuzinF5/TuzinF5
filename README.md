@@ -5,18 +5,13 @@
 
 <div>
 
-- Olá, me chamo Arthur, tenho 24 anos, sou natural de Campinas - SP, mas atualmente moro em São Gonçalo do Rio Preto - MG. Gosto de jogos e estudar, me dedico ao máximo a tudo o que eu faço, me considero muito responsável para tomadas de decisões, fruto de uma boa educação familiar.
+Olá, me chamo Arthur, tenho 24 anos, sou natural de Campinas - SP, mas atualmente moro em São Gonçalo do Rio Preto - MG. Gosto de jogos e estudar, me dedico ao máximo a tudo o que eu faço, me considero muito responsável para tomadas de decisões, fruto de uma boa educação familiar.
 
 Tenho paixão por tecnologia, por esse motivo escolhi a Trybe para me aprofundar e me formar futuramente como desenvolvedor web, tanto Front-End quanto Back-End.
 
 Durante minha formação venho me dedicando muito aos estudos e a entrega de projetos.
 Diariamente coloco em prática habilidades de soft skills como metodologias ágeis e habilidades comportamentais.
 Estudo também hard skills, como por exemplo: Git, GitHub, JavaScript, HTML, CSS, Testes Unitários, React, Docker, MySQL, Node.js, TypeScript, entre outros.
-
-Nas stacks de atuação como desenvolvedor, tenho habilidades em :
-
- - Front-End: JavaScript, HTML, CSS, React, Redux com React, Context Api, React Hooks, React Router, Testes com RTL.
- - Back-End: Docker, MySQL, Sequelize ORM, Node.js, Express, TypeScript, Testes Unitários.
 
 Estou aberto à oportunidades de trabalho na área de Desenvolvimento de Software.
 Fique a vontade para me enviar uma mensagem. 
